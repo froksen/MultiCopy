@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>formatdrive.png</file>
+        <file>formatdrive1.png</file>
+        <file>Information-icon.png</file>
+        <file>Built_with_Qt_RGB_logo_vertical.png</file>
+    </qresource>
+    <qresource prefix="/translations">
+        <file>da_DK.qm</file>
+    </qresource>
+</RCC>
